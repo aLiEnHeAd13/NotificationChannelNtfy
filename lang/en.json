@@ -1,0 +1,15 @@
+{
+  "m_title": "ntfy Notifications",
+  "m_descr": "<p><a href='https://ntfy.sh/'>ntfy</a> is a simple HTTP-based <a href='https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern'>pub-sub</a> notification service.<br/>More information and examples here <a href='https://docs.ntfy.sh/publish/'>https://docs.ntfy.sh/publish/</a></p>",
+  "l_prefix": "Titel",
+  "h_prefix": "The title of the notification",
+  "l_tags": "Tags",
+  "h_tags": "Tags & emojis of the notification (see <a href='https://docs.ntfy.sh/publish/#tags-emojis'>https://docs.ntfy.sh/publish/#tags-emojis</a>)",
+  "l_priority": "Priority",
+  "h_priority": "The priority of the notification [1-5]",
+  "l_ntfyURL": "ntfy-URL",
+  "h_ntfyURL": "Complete url including topic (i.e. https://ntfy.sh/mytopic)",
+  "l_assignedToUser": "Assigned user",
+  "h_assignedToUser": "Assign this notification to a user",
+  "l_not_assigned_to_user": "Don't assign to a user"
+}
